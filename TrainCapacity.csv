@@ -1,0 +1,14 @@
+﻿Train_ID,Trip_Destination,Day ,Month ,AM/PM,Capacity ,Actual,Price_Ticket 
+1,Birmingham,16,February,AM,200,120,15
+1,Birmingham,20,February,PM,200,150,15
+4,Glasgow,14,March,PM,100,50,45
+2,Liverpool,12,May,AM,150,60,25
+3,Manchester,13,May,AM,150,80,25
+3,Manchester,20,May,AM,150,130,25
+4,Glasgow,21,May,PM,100,80,45
+1,Birmingham,26,June,PM,200,50,15
+1,Birmingham,28,June,PM,200,195,15
+3,Manchester,1,July,AM,150,120,25
+4,Glasgow,7,July,AM,100,20,45
+3,Manchester,15,July,AM,150,30,25
+2,Liverpool,28,August,AM,150,120,25

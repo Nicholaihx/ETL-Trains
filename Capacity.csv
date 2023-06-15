@@ -1,0 +1,14 @@
+﻿Trip_ID,Train_ID,Trip_Destination,Day ,Month ,AM/PM,Capacity ,Actual,Price_Ticket 
+160201,1,Birmingham,16,February,AM,200,120,15
+200201,1,Birmingham,20,February,PM,200,150,15
+140304,4,Glasgow,14,March,PM,100,50,45
+120502,2,Liverpool,12,May,AM,150,60,25
+130503,3,Manchester,13,May,AM,150,80,25
+200503,3,Manchester,20,May,AM,150,130,25
+210504,4,Glasgow,21,May,PM,100,80,45
+260601,1,Birmingham,26,June,PM,200,50,15
+280601,1,Birmingham,28,June,PM,200,195,15
+10703,3,Manchester,1,July,AM,150,120,25
+70704,4,Glasgow,7,July,AM,100,20,45
+150703,3,Manchester,15,July,AM,150,30,25
+280802,2,Liverpool,28,August,AM,150,120,25

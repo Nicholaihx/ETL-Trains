@@ -1,0 +1,11 @@
+﻿Destination,Train_ID,Trip_ID,Customer_ID,Day,Month,AM/PM
+Birmingham,1,160201,10253B,16,February,AM
+Glasgow,2,140304,10542G,14,March,PM
+Manchester,3,210403,10895M,21,April,PM
+Liverpool,4,120502,12568L,12,May,AM
+Birmingham,2,260601,45126B,26,June,PM
+Glasgow,1,70704,78436G,7,July,AM
+Liverpool,4,280802,56800L,28,August,AM
+Manchester,2,50903,62541M,5,September,AM
+Birmingham,2,41001,97841B,4,October,AM
+Glasgow,3,231204,32685G,23,December,PM
